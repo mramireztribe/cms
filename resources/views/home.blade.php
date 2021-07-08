@@ -37,7 +37,7 @@
               </div>
             </li>
             <li class="nav-item">
-              <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+              <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled2</a>
             </li>
           </ul>
           <form class="form-inline my-2 my-lg-0">
